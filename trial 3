@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ESD | E-source Direct Jewelry</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand brand-esd" href="#top"><span class="brand-mark">ESD</span><span>E-source Direct</span></a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="shop.html?product=rings">Rings</a>
+      <a href="shop.html?product=chains">Chains</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#details">Details</a>
+      <a href="#visit">Visit</a>
+    </nav>
+    <a class="header-action" href="shop.html?product=rings">Shop now</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Minimal jewelry. Everyday steel.</p>
+        <h1>Polished pieces made for daily wear.</h1>
+        <p class="hero-text">Clean rings and Cuban link chains in silver, black, and gold finishes. Durable, water-ready, and easy to style.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="shop.html?product=rings">Shop Rings</a>
+          <a class="button secondary" href="shop.html?product=chains">Shop Chains</a>
+        </div>
+      </div>
+      <div class="hero-gallery" aria-label="Featured jewelry photos">
+        <img class="hero-main rotating-hero-image" id="hero-main-image" src="file:///D:/Files/rings%20new%20ai/39d339db-06e9-4922-8b11-704e46cb4394.png" alt="Gold and black minimal rings">
+        <img class="hero-side top rotating-hero-image" id="hero-top-image" src="file:///D:/Files/reg%20necklaceDLOPT/d514ed5f-1076-4032-98ca-ffeaf710c4ca.png" alt="Silver Cuban link chain">
+        <img class="hero-side bottom rotating-hero-image" id="hero-bottom-image" src="file:///D:/Files/rings%20new%20ai/60a6e336-5a79-4c0e-b790-694ec6f90db1.png" alt="Stacked rings">
+      </div>
+    </section>
+
+    <section class="collection-strip">
+      <div><strong>Stainless steel</strong><span>Built for everyday wear</span></div>
+      <div><strong>Waterproof</strong><span>Gym, shower, beach ready</span></div>
+      <div><strong>3 finishes</strong><span>Silver, black, and gold</span></div>
+      <div><strong>Clean styling</strong><span>Minimal, classic, bold</span></div>
+    </section>
+
+    <section id="shop" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Featured pieces</p>
+        <h2>Shop the signature lineup</h2>
+      </div>
+      <div class="product-grid">
+        <article class="product-card"><img src="file:///D:/Files/rings%20new%20ai/f23f9699-9045-4a6f-90fd-2dbeeed03f1d.png" alt="Gold brushed ring"><div class="product-info"><span>Ring</span><h3>Gold Brushed Band</h3><p>5mm stainless steel with a brushed matte body and polished edge.</p><strong>$12</strong><a class="shop-button" href="shop.html?product=rings">Shop Now</a></div></article>
+        <article class="product-card"><img src="file:///D:/Files/rings%20new%20ai/06f67724-f83c-4930-be09-de746a6619e6.png" alt="Black brushed ring"><div class="product-info"><span>Ring</span><h3>Black Brushed Band</h3><p>Scratch resistant, tarnish resistant, and designed for a sharp daily look.</p><strong>$12</strong><a class="shop-button" href="shop.html?product=rings">Shop Now</a></div></article>
+        <article class="product-card"><img src="file:///D:/Files/rings%20new%20ai/6789c9b9-838c-48eb-b0ca-8e05869ea0a1.png" alt="Silver brushed ring"><div class="product-info"><span>Ring</span><h3>Silver Brushed Band</h3><p>Bright polished trim with a smooth interior for comfortable wear.</p><strong>$12</strong><a class="shop-button" href="shop.html?product=rings">Shop Now</a></div></article>
+        <article class="product-card"><img src="file:///D:/Files/reg%20necklaceDLOPT/d0c13398-b5cc-435d-a651-aef69502a47e.png" alt="Cuban link chain worn with a black shirt"><div class="product-info"><span>Chain</span><h3>Cuban Link Chain</h3><p>Choose 3mm, 5mm, or 7mm widths in everyday lengths.</p><strong>$14</strong><a class="shop-button" href="shop.html?product=chains">Shop Now</a></div></article>
+      </div>
+      <aside class="order-summary" aria-live="polite">
+        <div>
+          <span class="summary-label">Checkout</span>
+          <strong>Shop directly on ESD</strong>
+        </div>
+        <div>
+          <span class="summary-label">Payments</span>
+          <strong>Square ready</strong>
+        </div>
+        <a class="summary-action" href="shop.html?product=rings">Continue to shop</a>
+      </aside>
+    </section>
+
+    <section id="rings" class="feature-panel">
+      <div class="feature-image"><img src="file:///D:/Files/rings%20new%20ai/af69b153-c561-472a-a65f-29e2d94c6f7f.png" alt="Silver, gold, and black rings together"></div>
+      <div class="feature-copy">
+        <p class="eyebrow">Minimal ring collection</p>
+        <h2>One clean shape, three strong finishes.</h2>
+        <p>These bands keep the profile simple: a 5mm width, brushed matte finish, polished edge, and a weight that feels substantial without being bulky.</p>
+        <div class="finish-row"><span><i class="silver"></i>Silver</span><span><i class="black"></i>Black</span><span><i class="gold"></i>Gold</span></div>
+        <a class="section-shop-button" href="shop.html?product=rings">Shop Now</a>
+      </div>
+    </section>
+
+    <section id="chains" class="split-section">
+      <div class="section-heading compact"><p class="eyebrow">Cuban link chains</p><h2>Pick your weight.</h2><p>Layer a slim 3mm chain, make the 5mm your daily staple, or go bold with the 7mm statement width.</p><a class="section-shop-button" href="shop.html?product=chains">Shop Now</a></div>
+      <div class="chain-grid">
+        <article><img src="file:///D:/Files/reg%20necklaceDLOPT/ChatGPT%20Image%20Mar%202,%202026,%2008_28_57%20PM.png" alt="Cuban link chain sizing guide"><h3>Width guide</h3><p>3mm minimal, 5mm classic, 7mm bold.</p></article>
+        <article><img src="file:///D:/Files/reg%20necklaceDLOPT/d0c13398-b5cc-435d-a651-aef69502a47e.png" alt="Cuban link chain close up"><h3>Daily shine</h3><p>Polished stainless steel made to keep its look.</p></article>
+        <article><img src="file:///D:/Files/reg%20necklaceDLOPT/7ff9821b-6655-499f-a717-9d9019da63ac.png" alt="Three chain widths"><h3>Layer ready</h3><p>Wear one chain solo or stack multiple lengths.</p></article>
+      </div>
+    </section>
+
+    <section id="details" class="details-section">
+      <div><p class="eyebrow">Product details</p><h2>Designed to stay in rotation.</h2></div>
+      <div class="detail-list"><div><span>01</span><h3>Durable steel</h3><p>Stainless steel construction with tarnish resistant finishing.</p></div><div><span>02</span><h3>Water-ready</h3><p>Made for daily wear through workouts, showers, and beach days.</p></div><div><span>03</span><h3>Hypoallergenic</h3><p>Comfortable pieces for clean styling and low-maintenance care.</p></div></div>
+    </section>
+
+    <section id="reviews" class="reviews-section">
+      <div class="reviews-heading">
+        <p class="eyebrow">TikTok Shop reviews</p>
+        <h2>Trusted by everyday wearers.</h2>
+        <p>ESD has 20+ customer reviews on TikTok Shop. Add your exact customer quotes here as your review count grows.</p>
+      </div>
+      <div class="review-stats">
+        <div><strong>20+</strong><span>TikTok Shop reviews</span></div>
+        <div><strong>4.8/5</strong><span>Suggested rating display</span></div>
+        <div><strong>Daily</strong><span>Wear-tested pieces</span></div>
+      </div>
+      <div class="review-carousel" aria-label="Customer reviews">
+        <div class="review-track">
+          <article><span>★★★★★</span><p>"Looks exactly like the photos and feels solid for daily wear."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"The chain has a clean shine and the sizing guide made it easy to choose."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"Simple, durable, and easy to style with everything."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"The ring feels comfortable and the brushed finish looks premium."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"Fast shipping and the piece was packaged nicely."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"Good everyday jewelry. I can wear it with almost anything."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"The black ring looks clean and does not feel cheap."</p><strong>TikTok Shop buyer</strong></article>
+          <article><span>★★★★★</span><p>"The Cuban link is exactly the size I wanted."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"Looks exactly like the photos and feels solid for daily wear."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"The chain has a clean shine and the sizing guide made it easy to choose."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"Simple, durable, and easy to style with everything."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"The ring feels comfortable and the brushed finish looks premium."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"Fast shipping and the piece was packaged nicely."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"Good everyday jewelry. I can wear it with almost anything."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"The black ring looks clean and does not feel cheap."</p><strong>TikTok Shop buyer</strong></article>
+          <article aria-hidden="true"><span>★★★★★</span><p>"The Cuban link is exactly the size I wanted."</p><strong>TikTok Shop buyer</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="visit" class="contact-section">
+      <div><p class="eyebrow">Ready to order</p><h2>Find your finish, size, and everyday piece.</h2><p>Choose a piece from the shop page, add it to your cart, and check out directly through E-source Direct once Square is connected.</p></div>
+      <form class="contact-form"><label>Name<input type="text" name="name" placeholder="Your name"></label><label>Email<input type="email" name="email" placeholder="you@example.com"></label><label>Interested in<select name="interest" id="interest"><option>Minimal ring collection</option><option>Cuban link chain</option><option>Gold Brushed Band</option><option>Black Brushed Band</option><option>Silver Brushed Band</option><option>Both collections</option></select></label><button type="submit">Request details</button></form>
+    </section>
+  </main>
+
+  <footer><span>ESD | E-source Direct</span><span>Minimal rings and Cuban link chains</span></footer>
+  <script>
+    const heroSets = [
+      [
+        ["file:///D:/Files/rings%20new%20ai/39d339db-06e9-4922-8b11-704e46cb4394.png", "Gold and black minimal rings"],
+        ["file:///D:/Files/reg%20necklaceDLOPT/d514ed5f-1076-4032-98ca-ffeaf710c4ca.png", "Silver Cuban link chain"],
+        ["file:///D:/Files/rings%20new%20ai/60a6e336-5a79-4c0e-b790-694ec6f90db1.png", "Stacked rings"]
+      ],
+      [
+        ["file:///D:/Files/rings%20new%20ai/ebc41bb2-05bc-4d55-89a4-d41e470b0c8b.png", "Stacked silver, gold, and black rings"],
+        ["file:///D:/Files/reg%20necklaceDLOPT/8396b24d-5fc8-4b42-9153-0afc0eb78f0d.png", "Three Cuban link chains"],
+        ["file:///D:/Files/rings%20new%20ai/f23f9699-9045-4a6f-90fd-2dbeeed03f1d.png", "Gold brushed ring"]
+      ],
+      [
+        ["file:///D:/Files/reg%20necklaceDLOPT/4bc6b7ca-a6de-4d8d-9b77-27b8ec0ddd5c.png", "Cuban link chain worn on black shirt"],
+        ["file:///D:/Files/rings%20new%20ai/6789c9b9-838c-48eb-b0ca-8e05869ea0a1.png", "Silver brushed ring"],
+        ["file:///D:/Files/reg%20necklaceDLOPT/7ff9821b-6655-499f-a717-9d9019da63ac.png", "Cuban link chain widths"]
+      ],
+      [
+        ["file:///D:/Files/rings%20new%20ai/b1b3edc6-0211-4583-bff0-92481a14a38f.png", "Three ring colorways"],
+        ["file:///D:/Files/reg%20necklaceDLOPT/d0c13398-b5cc-435d-a651-aef69502a47e.png", "Classic Cuban link chain"],
+        ["file:///D:/Files/rings%20new%20ai/06f67724-f83c-4930-be09-de746a6619e6.png", "Black brushed ring"]
+      ]
+    ];
+
+    const heroImages = [
+      document.getElementById("hero-main-image"),
+      document.getElementById("hero-top-image"),
+      document.getElementById("hero-bottom-image")
+    ];
+    let heroIndex = 0;
+
+    function rotateHeroPhotos() {
+      heroIndex = (heroIndex + 1) % heroSets.length;
+      heroImages.forEach((image) => image.classList.add("is-changing"));
+      setTimeout(() => {
+        heroImages.forEach((image, index) => {
+          image.src = heroSets[heroIndex][index][0];
+          image.alt = heroSets[heroIndex][index][1];
+          image.classList.remove("is-changing");
+        });
+      }, 350);
+    }
+
+    if (heroImages.every(Boolean)) {
+      setInterval(rotateHeroPhotos, 4200);
+    }
+  </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop ESD | E-source Direct</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand brand-esd" href="index.html"><span class="brand-mark">ESD</span><span>E-source Direct</span></a>
+    <nav class="nav-links" aria-label="Shop navigation">
+      <a href="index.html">Home</a>
+      <a href="shop.html?product=rings">Rings</a>
+      <a href="shop.html?product=chains">Chains</a>
+      <a href="#cart">Cart</a>
+    </nav>
+    <a class="header-action" href="#cart">View cart</a>
+  </header>
+
+  <main>
+    <section id="product-detail" class="product-detail">
+      <div class="gallery-panel">
+        <img id="main-product-image" src="" alt="">
+        <div id="thumbnail-row" class="thumbnail-row"></div>
+      </div>
+      <div class="product-purchase-panel">
+        <div class="product-switcher">
+          <a href="shop.html?product=rings">Rings</a>
+          <a href="shop.html?product=chains">Chains</a>
+        </div>
+        <p class="eyebrow" id="product-category"></p>
+        <h2 id="product-title"></h2>
+        <p id="product-description"></p>
+        <strong id="product-price" class="detail-price"></strong>
+        <form id="product-options" class="product-options"></form>
+        <button id="detail-add-to-cart" class="add-to-cart" type="button">Add to cart</button>
+        <div id="product-accordions" class="product-accordions"></div>
+      </div>
+    </section>
+
+    <section id="cart" class="cart-section">
+      <div>
+        <p class="eyebrow">Your cart</p>
+        <h2>Review your order.</h2>
+      </div>
+      <div class="cart-panel">
+        <div id="cart-items" class="cart-items"></div>
+        <div class="cart-empty" id="cart-empty">Your cart is empty.</div>
+        <div class="cart-total">
+          <span>Total</span>
+          <strong id="cart-total">$0</strong>
+        </div>
+        <button id="square-checkout" class="square-checkout" type="button">Checkout with Square</button>
+        <p class="checkout-note" id="checkout-note">Square checkout is ready to connect. Add your Square checkout link or Square Online checkout setup here.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer><span>ESD | E-source Direct</span><span>Secure checkout coming through Square</span></footer>
+
+  <script>
+    const products = {
+      rings: {
+        name: "Minimal Ring Collection",
+        cartName: "Minimal Ring",
+        category: "Ring",
+        price: 12,
+        description: "Essential Stainless Steel Ring by ESD.",
+        images: [
+          ["file:///D:/Files/rings%20new%20ai/ebc41bb2-05bc-4d55-89a4-d41e470b0c8b.png", "Stacked silver, gold, and black rings"],
+          ["file:///D:/Files/rings%20new%20ai/6789c9b9-838c-48eb-b0ca-8e05869ea0a1.png", "Silver brushed minimal ring"],
+          ["file:///D:/Files/rings%20new%20ai/06f67724-f83c-4930-be09-de746a6619e6.png", "Black brushed minimal ring"],
+          ["file:///D:/Files/rings%20new%20ai/f23f9699-9045-4a6f-90fd-2dbeeed03f1d.png", "Gold brushed minimal ring"],
+          ["file:///D:/Files/rings%20new%20ai/a87b9d00-a8d0-4221-98a6-10d317238b28.png", "Minimal ring collection product details"],
+          ["file:///D:/Files/rings%20new%20ai/60a6e336-5a79-4c0e-b790-694ec6f90db1.png", "Black and silver brushed rings"],
+          ["file:///D:/Files/rings%20new%20ai/39d339db-06e9-4922-8b11-704e46cb4394.png", "Gold and black minimal rings"],
+          ["file:///D:/Files/rings%20new%20ai/cb2a243c-698c-4c43-91af-130b14973dcd.png", "Gold and silver minimal rings"],
+          ["file:///D:/Files/rings%20new%20ai/b1b3edc6-0211-4583-bff0-92481a14a38f.png", "Three minimal ring colorways"]
+        ],
+        options: [
+          ["Finish", ["Gold", "Silver", "Black"]],
+          ["Ring size", ["6", "7", "8", "9", "10", "11", "12", "13"]]
+        ],
+        accordions: [
+          {
+            title: "Description",
+            content: `
+              <p>Elevate your style with the Essential Stainless Steel Ring by ESD. Designed for style, durability, and comfort, this ring matches any outfit. It withstands daily wear without losing its finish.</p>
+              <p>Perfect for casual or elevated outfits, it is a must-have for any men's collection. This ring is ideal for daily use or stacking. It will not damage or discolor. Choose your favorite color and enhance your style effortlessly.</p>
+            `
+          },
+          {
+            title: "Details",
+            content: `
+              <h3>Key Features</h3>
+              <ul>
+                <li>High-quality stainless steel</li>
+                <li>Scratch and wear-resistant</li>
+                <li>Tarnish and fade-resistant</li>
+                <li>Waterproof and sweat-proof</li>
+                <li>Smooth inner surface for comfort</li>
+                <li>Strong, solid feel without being heavy</li>
+              </ul>
+              <h3>Color Options</h3>
+              <ul>
+                <li>Silver: Clean and versatile</li>
+                <li>Black: Bold and modern</li>
+                <li>Gold: Rich and refined</li>
+              </ul>
+            `
+          }
+        ]
+      },
+      chains: {
+        name: "Cuban Link Chain",
+        cartName: "Cuban Link Chain",
+        category: "Chain",
+        price: 14,
+        description: "A polished stainless steel Cuban link chain designed for daily wear, layering, and clean styling.",
+        images: [
+          ["file:///D:/Files/reg%20necklaceDLOPT/4bc6b7ca-a6de-4d8d-9b77-27b8ec0ddd5c.png", "Cuban link chain worn on black shirt"],
+          ["file:///D:/Files/reg%20necklaceDLOPT/d514ed5f-1076-4032-98ca-ffeaf710c4ca.png", "Minimal Cuban link chain"],
+          ["file:///D:/Files/reg%20necklaceDLOPT/d0c13398-b5cc-435d-a651-aef69502a47e.png", "Classic Cuban link chain"],
+          ["file:///D:/Files/reg%20necklaceDLOPT/8396b24d-5fc8-4b42-9153-0afc0eb78f0d.png", "Three Cuban link chain widths"],
+          ["file:///D:/Files/reg%20necklaceDLOPT/7ff9821b-6655-499f-a717-9d9019da63ac.png", "Cuban link chains on dark background"],
+          ["file:///D:/Files/reg%20necklaceDLOPT/ChatGPT%20Image%20Mar%202,%202026,%2008_28_57%20PM.png", "Cuban link chain sizing guide"]
+        ],
+        options: [
+          ["Width", ["3mm Minimal", "5mm Classic", "7mm Bold"]],
+          ["Length", ["45 cm / 17.7 in", "50 cm / 19.7 in", "55 cm / 21.7 in"]]
+        ],
+        accordions: [
+          {
+            title: "Description",
+            content: "<p>A polished stainless steel Cuban link chain designed for daily wear, layering, and clean styling.</p>"
+          },
+          {
+            title: "Details",
+            content: "<ul><li>Stainless steel</li><li>Tarnish resistant</li><li>Made for layering</li><li>Available in 3 widths</li></ul>"
+          }
+        ]
+      }
+    };
+
+    const cart = [];
+    const squareCheckoutUrl = "";
+    let currentProductKey = "";
+
+    const detail = document.getElementById("product-detail");
+    const mainImage = document.getElementById("main-product-image");
+    const thumbnails = document.getElementById("thumbnail-row");
+    const optionsForm = document.getElementById("product-options");
+    const accordions = document.getElementById("product-accordions");
+    const cartItems = document.getElementById("cart-items");
+    const cartEmpty = document.getElementById("cart-empty");
+    const cartTotal = document.getElementById("cart-total");
+    const checkoutNote = document.getElementById("checkout-note");
+
+    function money(value) {
+      return `$${value.toFixed(2).replace(".00", "")}`;
+    }
+
+    function openProduct(key) {
+      const product = products[key];
+      currentProductKey = key;
+      detail.hidden = false;
+      document.getElementById("product-category").textContent = product.category;
+      document.getElementById("product-title").textContent = product.name;
+      document.getElementById("product-description").textContent = product.description;
+      document.getElementById("product-price").textContent = money(product.price);
+      setMainImage(product.images[0]);
+
+      thumbnails.innerHTML = "";
+      product.images.forEach((image, index) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = index === 0 ? "thumbnail active" : "thumbnail";
+        button.innerHTML = `<img src="${image[0]}" alt="${image[1]}">`;
+        button.addEventListener("click", () => {
+          setMainImage(image);
+          document.querySelectorAll(".thumbnail").forEach((thumb) => thumb.classList.remove("active"));
+          button.classList.add("active");
+        });
+        thumbnails.appendChild(button);
+      });
+
+      optionsForm.innerHTML = "";
+      product.options.forEach(([label, values]) => {
+        const field = document.createElement("label");
+        field.textContent = label;
+        const select = document.createElement("select");
+        select.name = label;
+        values.forEach((value) => {
+          const option = document.createElement("option");
+          option.value = value;
+          option.textContent = value;
+          select.appendChild(option);
+        });
+        field.appendChild(select);
+        optionsForm.appendChild(field);
+      });
+
+      accordions.innerHTML = product.accordions.map((section) => `
+        <details>
+          <summary>${section.title}</summary>
+          <div>${section.content}</div>
+        </details>
+      `).join("");
+
+      detail.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    function setMainImage(image) {
+      mainImage.src = image[0];
+      mainImage.alt = image[1];
+    }
+
+    function renderCart() {
+      cartItems.innerHTML = "";
+      let total = 0;
+
+      cart.forEach((item, index) => {
+        total += item.price * item.quantity;
+        const row = document.createElement("div");
+        row.className = "cart-row";
+        row.innerHTML = `
+          <div>
+            <strong>${item.name}</strong>
+            <span>${item.details}</span>
+          </div>
+          <div class="quantity-control">
+            <button type="button" data-action="decrease" data-index="${index}">-</button>
+            <span>${item.quantity}</span>
+            <button type="button" data-action="increase" data-index="${index}">+</button>
+          </div>
+          <strong>${money(item.price * item.quantity)}</strong>
+        `;
+        cartItems.appendChild(row);
+      });
+
+      cartEmpty.style.display = cart.length ? "none" : "block";
+      cartTotal.textContent = money(total);
+    }
+
+    document.getElementById("detail-add-to-cart").addEventListener("click", () => {
+      const product = products[currentProductKey];
+      const selected = Array.from(optionsForm.querySelectorAll("select")).map((select) => select.value);
+      const details = selected.join(" / ");
+      const existing = cart.find((item) => item.name === product.cartName && item.details === details);
+
+      if (existing) {
+        existing.quantity += 1;
+      } else {
+        cart.push({ name: product.cartName, price: product.price, details, quantity: 1 });
+      }
+
+      renderCart();
+      document.getElementById("cart").scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+
+    cartItems.addEventListener("click", (event) => {
+      const button = event.target.closest("button");
+      if (!button) return;
+      const item = cart[Number(button.dataset.index)];
+      if (button.dataset.action === "increase") item.quantity += 1;
+      if (button.dataset.action === "decrease") item.quantity -= 1;
+      if (item.quantity <= 0) cart.splice(Number(button.dataset.index), 1);
+      renderCart();
+    });
+
+    document.getElementById("square-checkout").addEventListener("click", () => {
+      if (squareCheckoutUrl) {
+        window.location.href = squareCheckoutUrl;
+        return;
+      }
+      checkoutNote.textContent = "Next step: paste your Square checkout link into this page so customers can pay here.";
+    });
+
+    const requestedProduct = new URLSearchParams(window.location.search).get("product");
+    openProduct(products[requestedProduct] ? requestedProduct : "rings");
+    renderCart();
+  </script>
+</body>
+</html>
+:root{--bg:#070707;--panel:#111;--panel-soft:#181716;--text:#f6f2ea;--muted:#b9b0a5;--line:rgba(255,255,255,.14);--gold:#d7a944;--silver:#d9dce0;--accent:#b98a3c}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif}img{display:block;max-width:100%}a{color:inherit;text-decoration:none}.site-header{position:sticky;top:0;z-index:10;display:flex;align-items:center;justify-content:space-between;gap:22px;padding:18px clamp(18px,4vw,58px);background:rgba(7,7,7,.84);border-bottom:1px solid var(--line);backdrop-filter:blur(18px)}.brand,.nav-links,.hero-actions,.finish-row{display:flex;align-items:center}.brand{gap:12px;font-weight:800;white-space:nowrap}.brand-mark{display:grid;place-items:center;min-width:44px;height:34px;padding:0 8px;border:1px solid rgba(215,169,68,.65);color:var(--gold);font-family:Georgia,serif;font-size:.82rem}.nav-links{gap:clamp(12px,3vw,34px);color:var(--muted);font-size:.92rem}.nav-links a:hover,.header-action:hover{color:var(--text)}.header-action,.button,.contact-form button{min-height:44px;border:1px solid rgba(215,169,68,.55);padding:12px 18px;font-weight:800;color:var(--text);background:transparent}.hero{min-height:calc(100vh - 71px);display:grid;grid-template-columns:minmax(0,.82fr) minmax(320px,1.18fr);align-items:center;gap:clamp(30px,5vw,72px);padding:clamp(34px,6vw,82px) clamp(18px,5vw,70px) clamp(28px,5vw,60px);overflow:hidden}.hero-copy{max-width:620px}.eyebrow{margin:0 0 16px;color:var(--gold);font-size:.78rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase}h1,h2{margin:0;font-family:Georgia,serif;letter-spacing:0;line-height:.98}h1{font-size:clamp(3.2rem,8vw,7.7rem);max-width:760px}h2{font-size:clamp(2.1rem,4.8vw,4.9rem)}h3,p{letter-spacing:0}.hero-text,.feature-copy p,.section-heading p,.contact-section p{color:var(--muted);font-size:clamp(1rem,1.7vw,1.2rem);line-height:1.7}.hero-text{max-width:560px;margin:24px 0 30px}.hero-actions{flex-wrap:wrap;gap:12px}.button.primary,.contact-form button{background:linear-gradient(135deg,#e3b751,#9f6827);color:#100d08;border:0}.button.secondary{border-color:rgba(255,255,255,.25);color:var(--muted)}.hero-gallery{position:relative;min-height:610px}.hero-main,.hero-side{position:absolute;object-fit:cover;border:1px solid var(--line);box-shadow:0 28px 80px rgba(0,0,0,.56)}.hero-main{right:8%;top:4%;width:min(76%,720px);height:76%}.hero-side{width:min(36%,310px);height:35%}.hero-side.top{left:0;top:12%}.hero-side.bottom{left:10%;bottom:4%}.collection-strip{display:grid;grid-template-columns:repeat(4,1fr);border-block:1px solid var(--line)}.collection-strip div{padding:24px clamp(16px,3vw,42px);border-right:1px solid var(--line)}.collection-strip div:last-child{border-right:0}.collection-strip strong,.collection-strip span{display:block}.collection-strip strong{margin-bottom:6px}.collection-strip span,.product-info p,.detail-list p,.chain-grid p{color:var(--muted);line-height:1.55}.section,.split-section,.details-section,.contact-section{padding:clamp(64px,8vw,112px) clamp(18px,5vw,70px)}.section-heading{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:34px}.section-heading h2{max-width:780px}.section-heading.compact{display:block;max-width:760px}.product-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.product-card,.chain-grid article{background:var(--panel);border:1px solid var(--line)}.product-card{display:flex;flex-direction:column}.product-card img{width:100%;aspect-ratio:4/5;object-fit:cover;background:#050505}.product-info{display:flex;flex:1;flex-direction:column;padding:20px}.product-info span{color:var(--gold);font-size:.75rem;font-weight:800;text-transform:uppercase}.product-info h3,.chain-grid h3,.detail-list h3{margin:8px 0;font-size:1.1rem}.product-info strong{display:inline-block;margin-top:8px;font-size:1.1rem}.feature-panel{display:grid;grid-template-columns:minmax(320px,1.08fr) minmax(300px,.92fr);gap:clamp(28px,5vw,74px);align-items:center;padding:clamp(54px,7vw,92px) clamp(18px,5vw,70px);background:#10100f;border-block:1px solid var(--line)}.feature-image img{width:100%;max-height:720px;object-fit:cover}.feature-copy p{max-width:620px}.finish-row{gap:12px;flex-wrap:wrap;margin-top:26px}.finish-row span{display:inline-flex;align-items:center;gap:8px;min-height:42px;padding:9px 14px;background:rgba(255,255,255,.06);border:1px solid var(--line);font-weight:700}.finish-row i{width:13px;height:13px;border-radius:50%}.finish-row .silver{background:var(--silver)}.finish-row .black{background:#050505;border:1px solid #555}.finish-row .gold{background:var(--gold)}.chain-grid{display:grid;grid-template-columns:1.2fr .9fr .9fr;gap:16px;margin-top:32px}.chain-grid img{width:100%;aspect-ratio:1/1;object-fit:cover}.chain-grid h3,.chain-grid p{padding-inline:18px}.chain-grid p{margin-bottom:20px}.details-section,.contact-section{display:grid;grid-template-columns:minmax(280px,.8fr) minmax(320px,1.2fr);gap:clamp(28px,5vw,80px);border-top:1px solid var(--line)}.detail-list{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.detail-list div{padding:22px;background:var(--panel-soft);border:1px solid var(--line)}.detail-list span{color:var(--gold);font-weight:800}.contact-section{background:linear-gradient(135deg,#10100f,#070707)}.contact-form{display:grid;gap:14px;padding:clamp(18px,3vw,28px);border:1px solid var(--line);background:rgba(255,255,255,.04)}.contact-form label{display:grid;gap:8px;color:var(--muted);font-size:.9rem;font-weight:700}.contact-form input,.contact-form select{width:100%;min-height:48px;border:1px solid var(--line);background:#090909;color:var(--text);padding:12px 14px;font:inherit}.contact-form button{width:fit-content;cursor:pointer}footer{display:flex;justify-content:space-between;gap:18px;padding:24px clamp(18px,5vw,70px);color:var(--muted);border-top:1px solid var(--line)}@media(max-width:1040px){.hero,.feature-panel,.details-section,.contact-section{grid-template-columns:1fr}.hero{min-height:auto}.hero-gallery{min-height:540px}.product-grid,.collection-strip{grid-template-columns:repeat(2,1fr)}.chain-grid,.detail-list{grid-template-columns:1fr}}@media(max-width:720px){.site-header{position:static;align-items:flex-start;flex-direction:column}.nav-links{width:100%;overflow-x:auto;padding-bottom:4px}.header-action{display:none}.hero-gallery{min-height:420px}.hero-main{right:0;width:82%;height:70%}.hero-side{width:42%;height:31%}.product-grid,.collection-strip{grid-template-columns:1fr}.collection-strip div{border-right:0;border-bottom:1px solid var(--line)}.section-heading,footer{display:block}}
+
+
+.brand-esd .brand-mark{min-width:76px;height:34px;border:0;padding:0;color:#fff;font-family:Arial Black,Impact,Inter,sans-serif;font-size:1.32rem;font-weight:900;letter-spacing:-.05em;line-height:1;background:transparent}
+.brand-esd>span:last-child{color:var(--muted);font-size:.9rem;font-weight:700}
+.reviews-section{padding:clamp(64px,8vw,112px) clamp(18px,5vw,70px);border-top:1px solid var(--line);background:radial-gradient(circle at top left,rgba(215,169,68,.12),transparent 34%),#090909}
+.reviews-heading{display:grid;grid-template-columns:minmax(280px,.9fr) minmax(300px,1.1fr);gap:clamp(22px,5vw,70px);align-items:end;margin-bottom:28px}
+.reviews-heading h2{max-width:680px}
+.reviews-heading p:last-child{color:var(--muted);font-size:1.05rem;line-height:1.7}
+.review-stats{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line);margin-bottom:16px}
+.review-stats div{padding:22px;border-right:1px solid var(--line)}
+.review-stats div:last-child{border-right:0}
+.review-stats strong{display:block;font-family:Georgia,serif;font-size:clamp(2rem,4vw,3.5rem);line-height:1;color:var(--text)}
+.review-stats span{display:block;margin-top:8px;color:var(--muted);font-weight:700}
+.review-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.review-grid article{min-height:210px;padding:24px;background:var(--panel);border:1px solid var(--line);display:flex;flex-direction:column;justify-content:space-between}
+.review-grid span{color:var(--gold);letter-spacing:.12em}
+.review-grid p{color:var(--text);font-size:1.08rem;line-height:1.65}
+.review-grid strong{color:var(--muted)}
+.review-carousel{overflow:hidden;mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.review-track{display:flex;width:max-content;animation:review-marquee 42s linear infinite}
+.review-track article{flex:0 0 clamp(280px,31vw,420px);min-height:210px;padding:24px;background:var(--panel);border:1px solid var(--line);display:flex;flex-direction:column;justify-content:space-between}
+.review-track article+article{border-left:0}
+.review-track span{color:var(--gold);letter-spacing:.12em}
+.review-track p{color:var(--text);font-size:1.08rem;line-height:1.65}
+.review-track strong{color:var(--muted)}
+
+@media(max-width:900px){.reviews-heading,.review-stats,.review-grid{grid-template-columns:1fr}.review-stats div{border-right:0;border-bottom:1px solid var(--line)}.review-stats div:last-child{border-bottom:0}}
+@media(max-width:760px){.review-track article{flex-basis:82vw}.review-track{animation-duration:48s}.review-track article+article{border-left:1px solid var(--line)}}
+
+.shop-button{width:100%;min-height:44px;margin-top:auto;border:1px solid rgba(215,169,68,.55);background:transparent;color:var(--text);font:inherit;font-weight:800;cursor:pointer}
+.shop-button:hover{background:rgba(215,169,68,.12);border-color:var(--gold)}
+.order-summary{display:grid;grid-template-columns:1fr 1fr auto;align-items:center;gap:18px;margin-top:18px;padding:18px;border:1px solid rgba(215,169,68,.38);background:linear-gradient(135deg,rgba(215,169,68,.13),rgba(255,255,255,.04))}
+.summary-label{display:block;margin-bottom:6px;color:var(--muted);font-size:.78rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
+.order-summary strong{font-size:1.1rem}
+.summary-action{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:12px 18px;background:linear-gradient(135deg,#e3b751,#9f6827);color:#100d08;font-weight:900}
+@media(max-width:720px){.order-summary{grid-template-columns:1fr}.summary-action{width:100%}}
+
+.shop-button{display:flex;align-items:center;justify-content:center}
+.shop-hero{display:grid;grid-template-columns:minmax(300px,.85fr) minmax(320px,1.15fr);gap:clamp(28px,5vw,72px);align-items:center;padding:clamp(44px,7vw,92px) clamp(18px,5vw,70px);border-bottom:1px solid var(--line);background:#080808}
+.shop-hero img{width:100%;max-height:620px;object-fit:cover;border:1px solid var(--line)}
+.shop-section{padding:clamp(58px,8vw,96px) clamp(18px,5vw,70px);border-bottom:1px solid var(--line)}
+.shop-grid{display:grid;grid-template-columns:minmax(280px,520px);gap:18px;margin-top:30px}
+.shop-product{display:grid;grid-template-columns:1fr;background:var(--panel);border:1px solid var(--line)}
+.shop-product img{width:100%;aspect-ratio:4/3;object-fit:cover;background:#050505}
+.shop-product-body{display:grid;gap:14px;padding:22px}
+.shop-product-body>span{color:var(--gold);font-size:.75rem;font-weight:800;text-transform:uppercase}
+.shop-product-body h3{margin:0;font-size:1.25rem}
+.shop-product-body p{margin:0;color:var(--muted);line-height:1.6}
+.shop-product-body strong{font-size:1.2rem}
+.shop-product-body label{display:grid;gap:7px;color:var(--muted);font-size:.9rem;font-weight:800}
+.shop-product-body select{min-height:46px;border:1px solid var(--line);background:#080808;color:var(--text);padding:10px 12px;font:inherit}
+.add-to-cart,.square-checkout{min-height:48px;border:0;background:linear-gradient(135deg,#e3b751,#9f6827);color:#100d08;font:inherit;font-weight:900;cursor:pointer}
+.cart-section{display:grid;grid-template-columns:minmax(260px,.7fr) minmax(320px,1.3fr);gap:clamp(24px,5vw,70px);padding:clamp(58px,8vw,96px) clamp(18px,5vw,70px);border-bottom:1px solid var(--line);background:linear-gradient(135deg,#10100f,#070707)}
+.cart-panel{padding:22px;border:1px solid rgba(215,169,68,.38);background:rgba(255,255,255,.04)}
+.cart-items{display:grid;gap:12px}
+.cart-empty{padding:18px;color:var(--muted);border:1px dashed var(--line)}
+.cart-row{display:grid;grid-template-columns:1fr auto auto;gap:16px;align-items:center;padding:14px;border:1px solid var(--line);background:#0b0b0b}
+.cart-row span{display:block;margin-top:5px;color:var(--muted);font-size:.9rem}
+.quantity-control{display:flex;align-items:center;border:1px solid var(--line)}
+.quantity-control button{width:34px;height:34px;border:0;background:#151515;color:var(--text);font-size:1.1rem;cursor:pointer}
+.quantity-control span{min-width:34px;margin:0;text-align:center;color:var(--text)}
+.cart-total{display:flex;align-items:center;justify-content:space-between;margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}
+.cart-total span{color:var(--muted);font-weight:800;text-transform:uppercase;letter-spacing:.12em}
+.cart-total strong{font-size:1.6rem}
+.square-checkout{width:100%;margin-top:18px}
+.checkout-note{margin:14px 0 0;color:var(--muted);line-height:1.6}
+@media(max-width:900px){.shop-hero,.cart-section{grid-template-columns:1fr}.cart-row{grid-template-columns:1fr}.quantity-control{width:max-content}}
+
+.listing-section{padding:clamp(58px,8vw,96px) clamp(18px,5vw,70px);border-bottom:1px solid var(--line)}
+.listing-grid{display:grid;grid-template-columns:repeat(2,minmax(280px,1fr));gap:18px;margin-top:30px}
+.listing-card{display:grid;gap:12px;text-align:left;border:1px solid var(--line);background:var(--panel);color:var(--text);padding:0;cursor:pointer;overflow:hidden}
+.listing-card:hover{border-color:rgba(215,169,68,.65);transform:translateY(-2px)}
+.listing-card img{width:100%;aspect-ratio:4/3;object-fit:cover;background:#050505}
+.listing-card span,.listing-card strong,.listing-card small,.listing-card em{margin-inline:20px}
+.listing-card span{color:var(--gold);font-size:.75rem;font-weight:800;text-transform:uppercase}
+.listing-card strong{font-size:1.35rem}
+.listing-card small{color:var(--muted);font-size:1rem;line-height:1.5}
+.listing-card em{margin-bottom:20px;color:var(--text);font-style:normal;font-size:1.2rem;font-weight:900}
+.product-detail{display:grid;grid-template-columns:minmax(320px,1.05fr) minmax(320px,.95fr);gap:clamp(24px,5vw,70px);padding:clamp(58px,8vw,96px) clamp(18px,5vw,70px);border-bottom:1px solid var(--line);background:#090909}
+.product-detail[hidden]{display:none}
+.gallery-panel{display:grid;gap:14px}
+.gallery-panel>img{width:100%;aspect-ratio:1/1;object-fit:cover;border:1px solid var(--line);background:#050505}
+.thumbnail-row{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
+.thumbnail{border:1px solid var(--line);background:#070707;padding:0;cursor:pointer;opacity:.68}
+.thumbnail.active,.thumbnail:hover{opacity:1;border-color:var(--gold)}
+.thumbnail img{width:100%;aspect-ratio:1/1;object-fit:cover}
+.product-purchase-panel{display:grid;align-content:start;gap:18px}
+.back-to-listings{width:max-content;min-height:40px;padding:10px 14px;border:1px solid var(--line);background:transparent;color:var(--muted);font:inherit;font-weight:800;cursor:pointer}
+.back-to-listings:hover{color:var(--text);border-color:var(--gold)}
+.product-purchase-panel h2{font-size:clamp(2.2rem,5vw,5rem)}
+.product-purchase-panel p{margin:0;color:var(--muted);line-height:1.7}
+.detail-price{font-size:1.6rem}
+.product-options{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.product-options label{display:grid;gap:8px;color:var(--muted);font-size:.9rem;font-weight:800}
+.product-options select{min-height:48px;border:1px solid var(--line);background:#080808;color:var(--text);padding:10px 12px;font:inherit}
+.product-switcher{display:flex;gap:10px;flex-wrap:wrap}
+.product-switcher a{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:10px 14px;border:1px solid var(--line);color:var(--muted);font-weight:800}
+.product-switcher a:hover{color:var(--text);border-color:var(--gold)}
+.section-shop-button{display:inline-flex;align-items:center;justify-content:center;width:max-content;min-height:44px;margin-top:22px;padding:12px 20px;background:linear-gradient(135deg,#e3b751,#9f6827);color:#100d08;font-weight:900}
+.product-accordions{display:grid;gap:10px;margin-top:4px}
+.product-accordions details{border:1px solid var(--line);background:rgba(255,255,255,.04)}
+.product-accordions summary{cursor:pointer;padding:15px 16px;color:var(--text);font-weight:900;list-style:none}
+.product-accordions summary::-webkit-details-marker{display:none}
+.product-accordions summary::after{content:"+";float:right;color:var(--gold)}
+.product-accordions details[open] summary{border-bottom:1px solid var(--line)}
+.product-accordions details[open] summary::after{content:"-"}
+.product-accordions div{padding:16px;color:var(--muted);line-height:1.65}
+.product-accordions p{margin:0 0 12px;color:var(--muted);line-height:1.65}
+.product-accordions p:last-child{margin-bottom:0}
+.product-accordions h3{margin:0 0 8px;color:var(--text);font-size:1rem}
+.product-accordions ul{margin:0 0 16px;padding-left:20px}
+.product-accordions li{margin:6px 0}
+@media(max-width:900px){.listing-grid,.product-detail{grid-template-columns:1fr}.thumbnail-row{grid-template-columns:repeat(3,1fr)}.product-options{grid-template-columns:1fr}}
+
+
+
+
+@keyframes review-marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.rotating-hero-image{transition:opacity .35s ease,transform .35s ease}
+.rotating-hero-image.is-changing{opacity:.2;transform:scale(.985)}
+
+
+
+
